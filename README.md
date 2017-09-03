@@ -312,3 +312,6 @@
 ([CurseForge](https://minecraft.curseforge.com/projects/waila-harvestability))
 ##### Wawla:
 - Info:
+([Github](https://github.com/Darkhax-Minecraft/WAWLA))
+([Minecraft Forum](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2169830-wawla-what-are-we-looking-at))
+([Curseforge](https://minecraft.curseforge.com/projects/wawla-what-are-we-looking-at))
