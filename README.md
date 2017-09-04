@@ -91,6 +91,16 @@
 ([Curseforge](https://minecraft.curseforge.com/projects/mekanism))
 ([Github](https://github.com/aidancbrady/Mekanism))
 - Guide and Mod Spotlights:
+
+##### Thermal Expansion:
+- Info:
+([Official Site](http://teamcofh.com/docs/thermal-expansion/))
+([Github](https://github.com/CoFH/ThermalExpansion))
+([Minecraft Forum](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1284049-1-5-1-thermal-expansion-2-3-0-b7-updates-and))
+([Unofficial FTB Wiki](https://ftbwiki.org/Thermal_Expansion_4))
+([Official FTB Wiki](https://ftb.gamepedia.com/Thermal_Expansion_4))
+([Curseforge](https://minecraft.curseforge.com/projects/thermalexpansion))
+
 ## RPG Mods:
 
 ##### Advent of Ascension:
@@ -295,6 +305,13 @@
 ([Minecraft Forum](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1274678-1-6-x-1-5-2-others-pams-mods-feb-9th-im-back))
 ([Fandom Wiki](http://harvestcraftmod.wikia.com/wiki/HarvestCraft_Wiki))
 ([Curseforge](https://minecraft.curseforge.com/projects/pams-harvestcraft))
+##### Thermal Foundation:
+- Info:
+([Official Site](http://teamcofh.com/docs/thermal-foundation/))
+([Github](https://github.com/CoFH/ThermalFoundation))
+([Unofficial FTB Wiki](https://ftbwiki.org/Thermal_Foundation))
+([Official FTB Wiki](https://ftb.gamepedia.com/Thermal_Foundation))
+([Cureforge](https://minecraft.curseforge.com/projects/thermal-foundation))
 ##### Tinker's Defense:
 - Info:
 ([Github](https://github.com/Lance5057/Tinkers-Defense))
