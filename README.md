@@ -120,12 +120,6 @@
 ([Minecraft Forum](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1286606-the-dalek-mod-updated-july-15th-2017-tardis-sonic)
 ([Curseforge](https://minecraft.curseforge.com/projects/the-dalek-mod))
 ([Planet Minecraft](https://www.planetminecraft.com/mod/152-the-dalek-mod/))
-##### Divine RPG:
-- Info:
-([Github](https://github.com/DivineRPG/DivineRPG))
-([Minecraft Forum](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2455655-divinerpg-8-new-dimensions-115-new-mobs-bosses))
-([Fandom Wiki](http://divine-rpg.wikia.com/wiki/Divine_RPG_Wiki))
-([Unofficial FTB Wiki](https://ftbwiki.org/Divine_RPG))
 ##### Dr Zharks Mo' Creatures:
 - Info:
 ([Official Site](http://www.mocreatures.org/))
@@ -222,12 +216,6 @@
 ([Direwolf20: Witchery Mod Spotlight](https://www.youtube.com/playlist?list=PLU0tRV3M8PETbJcnemZrh180BAWDJ5pWH))
 ## Science Mods:
 
-##### Galacticraft:
-- Info
-([Official Site](https://micdoodle8.com/))
-([Official Wiki](https://wiki.micdoodle8.com/wiki/Galacticraft))
-([Github](https://github.com/micdoodle8/Galacticraft))
-([Minecraft Forum](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1287888-galacticraft-4-0-0-6-400-000-downloads))
 ##### Minechem:
 - Info
 ([Curseforge](https://minecraft.curseforge.com/projects/minechem))
@@ -270,19 +258,10 @@
 - Info:
 ([Github](https://github.com/SleepyTrousers/EnderCore))
 ([Curseforge](https://minecraft.curseforge.com/projects/endercore)
-##### ExtraPlanets:
-- Info:
-([Minecraft Forum](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2564761-1-7-10-1-8-9-1-10-2-1-11-2-extra-planets))
-([Curseforge](https://minecraft.curseforge.com/projects/extraplanets))
 ##### ExtraTiC:
 - Info:
 ([Minecraft Forum](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/1445212-extratic-tinkers-construct-mod-support-add-on))
 ([Curseforge](https://minecraft.curseforge.com/projects/extratic))
-##### GalactricraftCore:
-- Info:
-([Official Site](https://micdoodle8.com/mods/galacticraft/downloads))
-([Github](https://github.com/micdoodle8/Galacticraft))
-([Official Wiki](https://wiki.micdoodle8.com/wiki/Galacticraft))
 ##### InventoryTweaks:
 - Info:
 ([Official Site](https://inventory-tweaks.readthedocs.io/en/latest/#))
@@ -294,11 +273,6 @@
 ([Official Site](http://journeymap.info/Home))
 ([Minecraft Forum](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1278348-journeymap-5-4-x-realtime-mapping-in-game-or-in-a))
 ([Curseforge](https://minecraft.curseforge.com/projects/journeymap))
-##### micdoodlecore:
-- Info:
-([Official Site](https://micdoodle8.com/mods/galacticraft/downloads))
-([Official Wiki](https://wiki.micdoodle8.com/wiki/Galacticraft))
-([Github](https://github.com/micdoodle8/MicdoodleCore))
 ##### NotEnoughItems:
 - Info:
 ([Official Site](http://chickenbones.net/Pages/links.html))
