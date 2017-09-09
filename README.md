@@ -114,12 +114,6 @@
 ([Github](https://github.com/Funwayguy/BetterQuesting))
 ([Minecraft Forum](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2577119-better-questing-a-new-and-improved-questing-mod))
 ([Curseforge](https://minecraft.curseforge.com/projects/better-questing-standard-expansion))
-##### The Dalek Mod:
-- Info:
-([Official Site](https://swdteam.com/product.php?key=XuTH8xMKYQDtBZmC3vxNocBvpgyi2rYP))
-([Minecraft Forum](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1286606-the-dalek-mod-updated-july-15th-2017-tardis-sonic)
-([Curseforge](https://minecraft.curseforge.com/projects/the-dalek-mod))
-([Planet Minecraft](https://www.planetminecraft.com/mod/152-the-dalek-mod/))
 ##### Dr Zharks Mo' Creatures:
 - Info:
 ([Official Site](http://www.mocreatures.org/))
