@@ -33,7 +33,7 @@
   ([Minecraft Forum](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2229562-rftools-dimension-builder-teleportation-crafter))
   ([Gamepedia](https://ftb.gamepedia.com/RFTools))
 - Guides and Spotlights:
-  ([Dirwolf20 Mod Spotlight](https://www.youtube.com/playlist?list=PLU0tRV3M8PERfkaYJiB_L6OIC1S_itXl0))
+  ([Direwolf20 Mod Spotlight](https://www.youtube.com/playlist?list=PLU0tRV3M8PERfkaYJiB_L6OIC1S_itXl0))
 ##### WarpDrive:
 - Info:
   ([Curseforge](https://minecraft.curseforge.com/projects/warpdrive))
@@ -134,7 +134,7 @@
 ([Minecraft Forum](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1287390-the-lord-of-the-rings-mod-bringing-middle-earth-to))
 ([Official Wiki](http://lotrminecraftmod.wikia.com/wiki/The_Lord_of_the_Rings_Minecraft_Mod_Wiki))
 - Guide and Mod Spotlights:
-([PopularMMos: Mod Showcase(https://www.youtube.com/watch?v=EXsytEShOrM))
+([PopularMMos: Mod Showcase](https://www.youtube.com/watch?v=EXsytEShOrM))
 ##### Mine and Blade Battlegear 2:
 - Info:
 ([Github](https://github.com/Mine-and-blade-admin/Battlegear2))
@@ -149,7 +149,7 @@
 - Guide and Mod Spotlights:
 ([PopularMMOs Mod Showcase](https://www.youtube.com/playlist?list=PLU0tRV3M8PESr3RW5y0BoHE3sl1wx-kwJ))
 ##### Parzi's Star Wars:
--Info:
+- Info:
 ([Official Site](http://www.parzivail.com/mods/tswm))
 ([Github](https://github.com/Parzivail-Modding-Team/ParziStarWarsMod))
 ([Minecraft Forum](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2507627-parzis-star-wars-mod-v1-3-0-the-force-awakens))
@@ -200,7 +200,7 @@
 ([Github](https://github.com/blay09/Waystones))
 ([Minecraft Forum](https://minecraft.curseforge.com/projects/waystones))
 - Guide and Mod Spotlights:
-([Mod Shocase](https://www.youtube.com/watch?v=IpLXqEl1yQI&t=1s))
+([Mod Showcase](https://www.youtube.com/watch?v=IpLXqEl1yQI&t=1s))
 ##### Witchery:
 - Info
 ([Official Site](https://sites.google.com/site/witcherymod/))
@@ -222,7 +222,7 @@
 
 ##### Biomes O Plenty:
 - Info:
-([Cursforge](https://minecraft.curseforge.com/projects/biomes-o-plenty))
+([Curseforge](https://minecraft.curseforge.com/projects/biomes-o-plenty))
 ([Fandom Wikia](http://biomesoplenty.wikia.com/wiki/Biomes_O%27_Plenty_Wiki))
 ([Official FTB Wiki](https://ftb.gamepedia.com/Biomes_O%27_Plenty))
 ([Unofficial FTB Wiki](https://ftbwiki.org/Biomes_O%27_Plenty))
@@ -251,7 +251,7 @@
 ##### EnderCore:
 - Info:
 ([Github](https://github.com/SleepyTrousers/EnderCore))
-([Curseforge](https://minecraft.curseforge.com/projects/endercore)
+([Curseforge](https://minecraft.curseforge.com/projects/endercore))
 ##### ExtraTiC:
 - Info:
 ([Minecraft Forum](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/1445212-extratic-tinkers-construct-mod-support-add-on))
