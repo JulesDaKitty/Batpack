@@ -91,7 +91,8 @@
 ([Curseforge](https://minecraft.curseforge.com/projects/mekanism))
 ([Github](https://github.com/aidancbrady/Mekanism))
 - Guide and Mod Spotlights:
-
+([Mod Spotlight by ILabs TacoMage](https://youtu.be/eSsH1U8ouxw))
+([KreekCraft: Mekanism Mod Spotlight](https://www.youtube.com/playlist?list=PLU0tRV3M8PEQYnu7GCxj-8qyNjez_2aGA))
 ##### Thermal Expansion:
 - Info:
 ([Official Site](http://teamcofh.com/docs/thermal-expansion/))
@@ -100,80 +101,77 @@
 ([Unofficial FTB Wiki](https://ftbwiki.org/Thermal_Expansion_4))
 ([Official FTB Wiki](https://ftb.gamepedia.com/Thermal_Expansion_4))
 ([Curseforge](https://minecraft.curseforge.com/projects/thermalexpansion))
-
+- Guides and Mod Spotlights:
+([Direwolf20: Thermal Expansion Spotlight/Tutorial](https://www.youtube.com/playlist?list=PLU0tRV3M8PERNRj7uxL1hD3ep7rUwAPDc))
 ## RPG Mods:
 
 ##### Advent of Ascension:
 - Info:
 ([Official Wiki](https://adventofascension.gamepedia.com/Advent_of_Ascension_Wiki))
 ([Minecraft Forum](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1286381-aoa-21-new-dimensions-330-mobs-27-bosses-skills))
-- Guide and Mod Spotlights:
 ##### Better Questing:
 - Info:
 ([Github](https://github.com/Funwayguy/BetterQuesting))
 ([Minecraft Forum](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2577119-better-questing-a-new-and-improved-questing-mod))
 ([Curseforge](https://minecraft.curseforge.com/projects/better-questing-standard-expansion))
-- Guide and Mod Spotlights:
 ##### The Dalek Mod:
 - Info:
 ([Official Site](https://swdteam.com/product.php?key=XuTH8xMKYQDtBZmC3vxNocBvpgyi2rYP))
 ([Minecraft Forum](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1286606-the-dalek-mod-updated-july-15th-2017-tardis-sonic)
 ([Curseforge](https://minecraft.curseforge.com/projects/the-dalek-mod))
 ([Planet Minecraft](https://www.planetminecraft.com/mod/152-the-dalek-mod/))
-- Guide and Mod Spotlights:
 ##### Divine RPG:
 - Info:
 ([Github](https://github.com/DivineRPG/DivineRPG))
 ([Minecraft Forum](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2455655-divinerpg-8-new-dimensions-115-new-mobs-bosses))
 ([Fandom Wiki](http://divine-rpg.wikia.com/wiki/Divine_RPG_Wiki))
 ([Unofficial FTB Wiki](https://ftbwiki.org/Divine_RPG))
-- Guide and Mod Spotlights:
 ##### Dr Zharks Mo' Creatures:
 - Info:
 ([Official Site](http://www.mocreatures.org/))
 ([Official Wiki](https://mocreatures.gamepedia.com/Mo%27_Creatures_Wiki))
 ([Minecraft Forum](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1272337-mo-creatures-v10-0-5-with-bear-mounts))
 ([Curseforge](https://minecraft.curseforge.com/projects/mo-creatures))
-- Guide and Mod Spotlights:
 ##### HQM The Journey:
 - Info:
 ([Github](https://github.com/lorddusk/HQM))
 ([Curseforge](https://minecraft.curseforge.com/projects/hardcore-questing-mode))
-- Guide and Mod Spotlights:
 ##### Infernal Mobs:
 - Info:
 ([Official Site](http://atomicstryker.net/infernalmobs.php))
 ([Minecraft Forum](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1284359-1-12-atomicstrykers-infernal-mobs-diablo-style))
 ([Curseforge](https://minecraft.curseforge.com/projects/atomicstrykers-infernal-mobs))
-- Guide and Mod Spotlights:
 ##### Lord of The Rings:
 - Info:
 ([Minecraft Forum](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1287390-the-lord-of-the-rings-mod-bringing-middle-earth-to))
 ([Official Wiki](http://lotrminecraftmod.wikia.com/wiki/The_Lord_of_the_Rings_Minecraft_Mod_Wiki))
 - Guide and Mod Spotlights:
+([PopularMMos: Mod Showcase(https://www.youtube.com/watch?v=EXsytEShOrM))
 ##### Mine and Blade Battlegear 2:
 - Info:
 ([Github](https://github.com/Mine-and-blade-admin/Battlegear2))
 ([Minecraft Forum](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1291267-mine-blade-battlegear-2-bullseye-1-0-9-0))
 ([Curseforge](https://minecraft.curseforge.com/projects/mb-battlegear-2))
 - Guide and Mod Spotlights
+([PopularMMo's Mod Showcase](https://www.youtube.com/watch?v=4wgt_NeFhG8))
 ##### Orespawn:
 - Info:
 ([Official Site](http://www.orespawn.com/))
 ([Planet Minecraft](https://www.planetminecraft.com/mod/orespawn-mod-2090519/))
 - Guide and Mod Spotlights:
+([PopularMMOs Mod Showcase](https://www.youtube.com/playlist?list=PLU0tRV3M8PESr3RW5y0BoHE3sl1wx-kwJ))
 ##### Parzi's Star Wars:
 -Info:
 ([Official Site](http://www.parzivail.com/mods/tswm))
 ([Github](https://github.com/Parzivail-Modding-Team/ParziStarWarsMod))
 ([Minecraft Forum](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2507627-parzis-star-wars-mod-v1-3-0-the-force-awakens))
 ([Curseforge](https://minecraft.curseforge.com/projects/parzis-star-wars-mod))
-- Guide and Mod Spotlights:
 ##### Runic Dungeon:
 - Info:
 ([Minecraft Forum](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2331694-wip-runic-dungeons-v1-1-6a-a-whole-new-dimension))
 ([Curseforge](https://minecraft.curseforge.com/projects/runic-dungeons))
 - Guide and Mod Spotlights:
+([PopularMMOs Mod Showcase](https://www.youtube.com/watch?v=EwF1k4BmUT4))
 ##### Tinker's Construct:
 - Info:
 ([Github](https://github.com/SlimeKnights/TinkersConstruct))
@@ -182,6 +180,7 @@
 ([Fandom Wiki](http://tinkers-construct.wikia.com/wiki/Tinkers%27_Construct_Wiki))
 ([Curseforge](https://minecraft.curseforge.com/projects/tinkers-construct))
 - Guide and Mod Spotlights:
+([How To Get Started With: Tinker's Construct](https://www.youtube.com/watch?v=o03KGqbgv7U))
 ##### Twilight Forest:
 - Info:
 ([Minecraft Forum](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1276258-the-twilight-forest-v2-3-5-wrecking-block))
@@ -189,6 +188,7 @@
 ([Unofficial FTB Wiki](https://ftbwiki.org/Twilight_Forest))
 ([Curseforge](https://minecraft.curseforge.com/projects/the-twilight-forest))
 - Guide and Mod Spotlights:
+([PopularMMOs Mod Showcase](https://www.youtube.com/watch?v=1NRbCj6bn4M))
 ## Magic Mods:
 
 ##### Mystcraft:
@@ -197,6 +197,7 @@
 ([Curseforge](https://minecraft.curseforge.com/projects/mystcraft))
 ([Minecraft Forum](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1280070-mystcraft))
 - Guide and Mod Spotlights:
+([Iskall: Age Writing Tutorial](https://www.youtube.com/watch?v=gk3FO8cj7m8))
 #### Thaumcraft:
 - Info
 ([Curseforge](https://minecraft.curseforge.com/projects/thaumcraft))
@@ -204,15 +205,21 @@
 ([Wikia](http://thaumcraft-4.wikia.com/wiki/Thaumcraft_4_Wiki))
 ([Gamepedia](https://ftb.gamepedia.com/Thaumcraft_5))
 - Guide and Mod Spotlights:
+([Complete Guide to Thaumcraft 4](https://www.youtube.com/playlist?list=PLg0HwSHqqW-r7ReeYz_iZGj6wN5wD7C_7))
+([Thaumcraft 4.2 Tutorial](https://www.youtube.com/playlist?list=PLT7uPahiOh6FrlK9DA638-6xScOfRSgyo)
 ##### Waystones:
-- Info
+- Info:
+([Github](https://github.com/blay09/Waystones))
+([Minecraft Forum](https://minecraft.curseforge.com/projects/waystones))
 - Guide and Mod Spotlights:
+([Mod Shocase](https://www.youtube.com/watch?v=IpLXqEl1yQI&t=1s))
 ##### Witchery:
 - Info
 ([Official Site](https://sites.google.com/site/witcherymod/))
 ([Curseforge](https://minecraft.curseforge.com/projects/witchery))
 ([Minecraft Forum](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/1445248-witchery-0-24-1))
 - Guide and Mod Spotlights:
+([Direwolf20: Witchery Mod Spotlight](https://www.youtube.com/playlist?list=PLU0tRV3M8PETbJcnemZrh180BAWDJ5pWH))
 ## Science Mods:
 
 ##### Galacticraft:
@@ -221,7 +228,6 @@
 ([Official Wiki](https://wiki.micdoodle8.com/wiki/Galacticraft))
 ([Github](https://github.com/micdoodle8/Galacticraft))
 ([Minecraft Forum](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1287888-galacticraft-4-0-0-6-400-000-downloads))
-- Guide and Mod Spotlights:
 ##### Minechem:
 - Info
 ([Curseforge](https://minecraft.curseforge.com/projects/minechem))
@@ -229,7 +235,7 @@
 ([Official FTB Wiki](https://ftb.gamepedia.com/MineChem))
 ([Github](https://github.com/iopleke/Minechem))
 - Guide and Mod Spotlights:
-
+([Mod Spotlight](https://www.youtube.com/watch?v=a0sHtLfEsTE))
 ## Addons and Cores:
 
 ##### Biomes O Plenty:

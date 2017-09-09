@@ -1,0 +1,17 @@
+{
+  "DALEK_SPAWN_RATE": 10,
+  "SKY_BOX_LEVELS": 32,
+  "SHOW_SKY_BOX": true,
+  "CUSTOM_TITLE_SCREEN": true,
+  "NITRO_9": true,
+  "ACID_RAIN": true,
+  "SONIC_BLASTER": true,
+  "SPAWN_DALEKS": true,
+  "SONIC_SHADE_VOICE_COMMANDS": true,
+  "TARDIS_GRIEF": true,
+  "Tardis_Dimension_ID": 2,
+  "Skaro_Dimension_ID": 3,
+  "Moon_Dimension_ID": 4,
+  "Minecraft_Classic_Dimension_ID": 5,
+  "Minecraft_Cave_Game_Dimension_ID": 6
+}
